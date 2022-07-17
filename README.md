@@ -2,8 +2,8 @@
 - 👀 I’m interested in Computer Vision, Robotics, Control Engineering and Instrumentation
 - 🌱 I’m currently learning OpenCV
 - 📫 How to reach me 
-  - You can find me on Instagram and Twitter as @AlbertoRomanCU. I also have a LinkedIn with my full name
-
+  - You can find me on LinkedIn for professional purposes.
+  
 Posts are mostly in Spanish and English.
 
 <!---
